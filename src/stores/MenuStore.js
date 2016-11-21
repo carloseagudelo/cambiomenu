@@ -8,7 +8,24 @@ var MenuStore = Reflux.createStore({
 
 	cambioMenu: function(){
 
+	}, 
+
+	obtenerMenuUsuario: function(){
+
+	}, 
+
+	menuReserva: function(){
+
+	}, 
+
+	platosRestaurante: function(){
+
+	},
+
+	obtenerPlato: function(){
+		
 	}
+
 });
 
 export default MenuStore;
